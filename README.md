@@ -1,15 +1,14 @@
 👋 Hi, I’m @lucavenir 👋
 
 👀 I'm currently working with...
-- 🔥 Firebase & Typescript 
+- 🔥 Firebase & Typescript
 - 🐦 Flutter & Dart
+- 🎯 Svelte & Svelte Kit
 
 🌱 I’m currently learning...
-- 🎯 Svelte & Svelte Kit
 - 📈 How to Lead & Grow a Startup
 
-💞️ I’m looking to collaborate on open source projects...
-... If I only had the time.
+💞️ Collaborating on open source projects (I'm currently full).
 
 📫 How to reach me: [stay tuned]
 
