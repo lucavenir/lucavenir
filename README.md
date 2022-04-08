@@ -3,7 +3,7 @@
 👀 I'm currently working on...
 - 🏛️ Software Architecture and Engineering
 - 🐦 Cross Mobile Development w/ Flutter, Dart
-- 🛠️ Native Mobile Development w/ Swift, Kotlin
+- 📲 Native Mobile Development w/ Swift, Kotlin
 - 🔥 Firebase & Typescript
 - 🌐 The Web w/ Svelte & SvelteKit
 
