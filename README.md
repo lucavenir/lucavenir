@@ -15,6 +15,8 @@
 
 📫 How to reach me: [... stay tuned ...]
 
+I also work on some private repos on GitLab; if you're curious about my contributions graph, check my GitLab profile at [gitlab.com/luca.venir](https://gitlab.com/luca.venir).
+
 <!---
 lucavenir/lucavenir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
