@@ -1,11 +1,11 @@
 👋 Hi, I’m @lucavenir 👋
 
-👀 I'm a Software Engineer, I graduated in Padua (Italy) and I'm currently working with...
+👀 I'm a Software Engineer, I graduated in Padua (Italy) and I'm currently working on...
 - 🏛️ Software Architecture, Software Engineering
 - 🐦 Cross Mobile Development w/ Flutter, Dart
 - 📲 Native Mobile Development w/ Swift, Kotlin
 - 🔥 Firebase & Typescript
-- 🌐 The Web w/ Nuxt3 & SvelteKit
+- 🌐 The Web w/ Nuxt3 and/or SvelteKit
 
 🌱 I’m currently learning...
 - 👨‍🔬 How to improve Code Quality, Architecture and Engineering
