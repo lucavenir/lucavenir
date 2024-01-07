@@ -3,7 +3,7 @@
 👀 I'm a Software Engineer, I live @Udine(Italy) and I'm currently...
 - 🏛️ Deepening my Software Engineering skills
 - 🐦 Working on Cross Platform Client-side Software w/ Dart
-- 🫂 Building a team that works with Dart
+- 🫂 Building a team that works with happily, together
 - 🐦‍🔥 Learning Phoenix so that I can write fast and fun server-side code
  
 🌱 I’m currently learning...
