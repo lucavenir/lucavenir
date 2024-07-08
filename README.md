@@ -1,6 +1,6 @@
 👋 Hi, I’m @lucavenir 👋
 
-👀 I'm a Software Engineer, I live @Udine(Italy) and I'm currently...
+👀 I'm a Software Engineer, I live in Udine, Italy, and I'm currently...
 - 🏛️ Deepening my Software Engineering skills
 - 🐦 Working on Cross Platform Client-side Software w/ Dart
 - 🫂 Building a team that works with happily, together
@@ -8,7 +8,7 @@
  
 🌱 I’m currently learning...
 - 🎯 Dart
-- 🦎 Zig
+- 💨 Go
 - ⚗️ Elixir
 
 I'm focused on...
@@ -18,7 +18,3 @@ I'm focused on...
 
 Most of my commits are on Gitlab, check my personal GitLab profile at [gitlab.com/luca.venir](https://gitlab.com/luca.venir) and my corporate profile at [gitlab.com/lucavenir](https://gitlab.com/lucavenir).
 
-<!---
-lucavenir/lucavenir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
