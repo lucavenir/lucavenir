@@ -4,11 +4,10 @@
 - 🏛️ Deepening my Software Engineering skills
 - 🐦 Working on Cross Platform Client-side Software w/ Dart
 - 🫂 Building a team that works with happily, together
-- 🐦‍🔥 Learning Phoenix so that I can write fast and fun server-side code
+- 🐦‍🔥 Building on the web Phoenix so that I can write fast and fun server-side code
  
-🌱 I’m currently learning...
+🌱 I’m currently using...
 - 🎯 Dart
-- 💨 Go
 - ⚗️ Elixir
 
 I'm focused on...
