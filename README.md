@@ -1,10 +1,9 @@
 👋 Hi, I’m @lucavenir 👋
 
 👀 I'm a Software Engineer, I live in Udine, Italy, and I'm currently...
-- 🏛️ Deepening my Software Engineering skills
-- 🐦 Working on Cross Platform Client-side Software w/ Dart
+- 🏛️ Working on my Software Engineering skills
 - 🫂 Building a team that works with happily, together
-- 🐦‍🔥 Building on the web Phoenix so that I can write fast and fun server-side code
+- 🐦‍🔥 Building on the web with Phoenix
  
 🌱 I’m currently using...
 - 🎯 Dart
